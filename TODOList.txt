@@ -1,0 +1,20 @@
+
+
+
+
+initialise factors before runge kutta for better performance (possible?)
+
+
+
+
+
+figure out opengl primitive-transformation matrices
+
+
+
+remove rotationaxis from constructor
+remove collided = false from constructor and compute on start up
+
+revise some of the Setters for PhysicsObjects to change other variables as well (i.e. changing mass changes density etc)
+
+add object types... (<- gonna be a pain in ...)

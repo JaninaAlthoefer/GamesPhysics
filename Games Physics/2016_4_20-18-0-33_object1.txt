@@ -1,0 +1,14 @@
+Initial Values
+Type: Sphere
+Radius: 0.5 Mass: 1 Density: 1.90986
+Position XYZ: 2 10 2
+Velocity XYZ: 0 0 0
+Rotation XYZ: 0 -1 0
+
+Fluid: C1 1.2 C2 1.6 Density 8
+Wind XYZ: 2 0 2
+Gravity XYZ: 0 -9.81 0
+Ground: 0
+
+Start Simulation
+
